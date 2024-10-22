@@ -8,11 +8,19 @@
 - **Animasi Interaktif**: Setiap aksi pemain dilengkapi dengan animasi yang halus.
 - **Keamanan Header**: Dilengkapi dengan pengaturan header keamanan untuk memastikan aplikasi aman.
 
+## Deploy ke Vercel
+
+Ingin meng-clone dan deploy aplikasi ini sendiri? Klik tombol di bawah untuk langsung deploy ke Vercel.
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/fleurdefontaine/tic-tac-toe)
+
+Tombol ini akan meng-clone repositori dan memulai deployment otomatis ke Vercel.
+
 ## Demo
 
 Aplikasi ini dideploy menggunakan Vercel. Kamu dapat mencoba permainan langsung di link berikut:
 
-**[Tic Tac Toe - Demo Online](https://your-vercel-url.vercel.app/)**
+**[Tic Tac Toe - Demo Online](https://ttt-games-ei.vercel.app/)**
 
 ## Teknologi yang Digunakan
 
